@@ -1,1 +1,2 @@
-# dcit318-assignment1-11252482
+# DCIT318 Assignment 1 – Multi-Function Console App
+This C# console application was developed as part of DCIT318 Programming II coursework. It features three modules: a Grade Calculator that converts numerical scores to letter grades, a Ticket Price Calculator that applies discounts based on age, and a Triangle Type Identifier that determines if a triangle is Equilateral, Isosceles, or Scalene. The app is interactive, menu-driven, and built using basic C# structures. It runs on the .NET CLI or Visual Studio and is ideal for practicing conditional logic, input handling, and control flow in C#. All tasks were committed separately using Git.
